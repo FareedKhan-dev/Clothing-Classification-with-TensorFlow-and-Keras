@@ -12,7 +12,7 @@ This code demonstrates an image classification task using the Fashion MNIST data
 
 ### To install required libraries
 
-    pip install tensorflow matplotlib np
+    pip install tensorflow matplotlib numpy
 
 ### Importing libraries
 
